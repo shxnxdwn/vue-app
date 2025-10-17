@@ -1,0 +1,21 @@
+:root {
+  --font-family-base: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --color-background: #1a1a1a;
+  --color-background-soft: #242424;
+  --color-surface: #2f2f2f;
+  --color-border: #4a4a4a;
+  --color-border-hover: #6a6a6a;
+
+  --color-text-heading: #e0e0e0;
+  --color-text-body: #c0c0c0;
+
+  --color-accent: #42b883;
+  --color-accent-hover: #369b6e;
+  --color-danger: #e54c4c;
+
+  --border-radius-s: 4px;
+  --border-radius-m: 8px;
+
+  --transition-fast: all 0.2s ease-in-out;
+}
