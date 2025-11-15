@@ -1,3 +1,3 @@
 # Vue App
 
-Пример приложения на Vue | Pinia
+Пример приложения на Vite | TS | Vue | Pinia
